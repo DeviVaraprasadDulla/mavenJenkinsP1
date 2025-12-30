@@ -27,6 +27,7 @@ public class HomePageTest {
 	public void registerTest() {
 		
 		System.out.println("This is resistration page.");
+		System.out.println("Don't you have account please register then login.");
 		
 	}
 

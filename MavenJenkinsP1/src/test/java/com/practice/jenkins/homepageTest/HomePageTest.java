@@ -21,5 +21,11 @@ public class HomePageTest {
 		System.out.println("Password : "+password);
 		System.out.println("================================");
 	}
+	
+	
+	@Test
+	public void registerTest() {
+		
+	}
 
 }

@@ -26,6 +26,8 @@ public class HomePageTest {
 	@Test
 	public void registerTest() {
 		
+		System.out.println("This is resistration page.");
+		
 	}
 
 }

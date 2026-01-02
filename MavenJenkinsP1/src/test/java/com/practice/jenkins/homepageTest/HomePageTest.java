@@ -15,6 +15,8 @@ public class HomePageTest {
 		String userName = System.getProperty("userName");
 		String password = System.getProperty("password");
 		
+		System.out.println("this is loginTest from Login Test method ");
+		
 		System.out.println("Browser Name : "+browser);
 		System.out.println("WebSite Url : "+url);
 		System.out.println("User Name : "+userName);
